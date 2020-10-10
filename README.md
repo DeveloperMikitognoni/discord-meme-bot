@@ -17,7 +17,8 @@ IMPORTANT: Your memes should be named like this: 1.jpg, 2.jpg, 3.jpg and so on;
 
 ### IF YOU NEED HELP OR WANT TO CONTRIBUTE FEEL FREE TO CONTACT ME
 
---
+---
+
 Brought to you with ❤️ by [Devmiki][github]
 
 Visit my website [devmiki.tk][website]
