@@ -44,6 +44,7 @@ Connect with me:
 [<img align="left" alt="Mikitognoni | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Mikitognoni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Mikitognoni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mikitognoni | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/medium.svg" />][medium]
 
 
 
@@ -53,6 +54,7 @@ Connect with me:
 [instagram]: https://instagram.com/Mikitognoni
 [telegram]: https://t.me/Mikitognoni
 [mail]: mailto://miki@devmiki.tk
+[medium]: https://medium.com/@devmiki
 [nodesite]: https://nodejs.org/
 [jsgit]: https://github.com/topics/javascript
 [heroku]: https://heroku.com
