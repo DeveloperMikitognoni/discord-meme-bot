@@ -1,20 +1,20 @@
 # DISCORD MEME BOT
 
-Discord meme bot is a simple discord bot written in Javascript to send a casual meme anytime is sent the command.
+Discord meme bot is a simple discord bot written in Javascript and optimized to run on Heroku, that sends one of your memes, every time is sent the command.
 
 ### HOW TO GET ON YOUR SERVER
 
-- 1 Fork the repository to your github account;
+1. Fork the repository to your github account;
 
-- 2 Register on heroku and connect to you github account;
+2. Register on heroku and connect to you github account;
 
-- 3 In the heroku dashboard choose to deploy from the forked repository;
+3. In the heroku dashboard choose to deploy from the forked repository;
 
-- 4 Find a hosting location for your memes, it has to be something like http://example.com/folder/memename.jpg ;
+4. Find a hosting location for your memes, it has to be something like http://example.com/folder/memename.jpg ;
 
     > IMPORTANT: Your memes should be named like this: 1.jpg, 2.jpg, 3.jpg and so on
 
-- 5 In the heroku dashboard go to settings, choose reveal config vars, and set these theree config vars: 
+5. In the heroku dashboard go to settings, choose reveal config vars, and set these theree config vars: 
     - BOT_TOKEN <code>your DiscordBot API KEY</code>;
     - IMG_HOST <code>The image hosting address like http://example.com/folder/</code>;
     - IMG_NUM <code>The number of memes you uploaded in your hosted folder</code>;
