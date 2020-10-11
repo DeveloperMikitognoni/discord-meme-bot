@@ -28,6 +28,7 @@ Components I used in this project:
 [<img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/452/heroku.png" />][heroku]
 
 <br>
+
 ---
 
 Brought to you with ❤️ by [Devmiki][github]
