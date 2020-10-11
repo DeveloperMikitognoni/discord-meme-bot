@@ -47,7 +47,7 @@ Connect with me:
 [twitter]: https://twitter.com/Mikitognoni
 [instagram]: https://instagram.com/Mikitognoni
 [telegram]: https://t.me/Mikitognoni
-[mail]: mailto://miki@devmiki.tkù
+[mail]: mailto://miki@devmiki.tk
 [nodesite]: https://nodejs.org/
 [jsgit]: https://github.com/topics/javascript
 [heroku]: https://heroku.com
