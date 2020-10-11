@@ -10,10 +10,11 @@ Discord meme bot is a simple discord bot written in Javascript to send a casual 
 
 - 3 In the heroku dashboard choose to deploy from the forked repository;
 
-- 4 Find a hosting location for your memes, it has to be something like http://example.com/folder/memename.jpg 
-IMPORTANT: Your memes should be named like this: 1.jpg, 2.jpg, 3.jpg and so on;
+- 4 Find a hosting location for your memes, it has to be something like http://example.com/folder/memename.jpg ;
 
-- 5 In the heroku dashboard go to settings, choose reveal config vars, and set these theree config vars: BOT_TOKEN <code>your DiscordBot API KEY</code>, IMG_HOST <code>The image hosting address like http://example.com/folder/</code>, IMG_NUM <code>The number of memes you uploaded in your hosted folder</code>
+> IMPORTANT: Your memes should be named like this: 1.jpg, 2.jpg, 3.jpg and so on
+
+- 5 In the heroku dashboard go to settings, choose reveal config vars, and set these theree config vars: BOT_TOKEN <code>your DiscordBot API KEY</code>, IMG_HOST <code>The image hosting address like http://example.com/folder/</code>, IMG_NUM <code>The number of memes you uploaded in your hosted folder</code>, PREFIX <code>The prefix is the text at the start of every message sent to this bot. This helps bot at undertanding which message to process. An example of prefix is *b!*</code>;
 
 **HEROKU DYNOS SHOULD BE SETTED AS** ***WORKER node bot.js***
 

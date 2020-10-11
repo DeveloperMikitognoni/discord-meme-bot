@@ -1,0 +1,25 @@
+{
+
+    "name": "discord-meme-bot",
+
+    "description": "A simple discord bot written in Javascript and optimized to run on Heroku, that sends one of your memes, every time is sent the command",
+
+    "version": "0.1.0",
+
+    "main": "bot.js",
+
+    "scripts": {
+
+        "start": "node bot.js"
+
+    },
+
+    "dependencies": {
+
+        "discord.js": "12.2.0",
+
+        "request": "2.81.0"
+
+    }
+
+}
