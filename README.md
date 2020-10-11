@@ -1,4 +1,4 @@
-### DISCORD MEME BOT
+# DISCORD MEME BOT
 
 Discord meme bot is a simple discord bot written in Javascript to send a casual meme anytime is sent the command.
 
@@ -15,21 +15,23 @@ IMPORTANT: Your memes should be named like this: 1.jpg, 2.jpg, 3.jpg and so on;
 
 - 5 In the heroku dashboard go to settings, choose reveal config vars, and set these theree config vars: BOT_TOKEN <code>your DiscordBot API KEY</code>, IMG_HOST <code>The image hosting address like http://example.com/folder/</code>, IMG_NUM <code>The number of memes you uploaded in your hosted folder</code>
 
-# HEROKU DYNOS SHOULD BE SETTED AS <code> WORKER node bot.js </code>
+#### HEROKU DYNOS SHOULD BE SETTED AS **WORKER node bot.js**
 
 ### IF YOU NEED HELP OR WANT TO CONTRIBUTE FEEL FREE TO CONTACT ME
+
+--
+
+Components I used in this project:
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsgit]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodesite]
+[<img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/452/heroku.png" />][heroku]
 
 ---
 
 Brought to you with ❤️ by [Devmiki][github]
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][https://github.com/topics/javascript]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][https://nodejs.org/]
-
-Visit my website [devmiki.tk][website]
-
-
-Or connect with me:
+Connect with me:
 
 [<img align="left" alt="devmiki.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mikitognoni | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/mail-dot-ru.svg" />][mail]
@@ -44,4 +46,7 @@ Or connect with me:
 [twitter]: https://twitter.com/Mikitognoni
 [instagram]: https://instagram.com/Mikitognoni
 [telegram]: https://t.me/Mikitognoni
-[mail]: mailto://miki@devmiki.tk
+[mail]: mailto://miki@devmiki.tkù
+[nodesite]: https://nodejs.org/
+[jsgit]: https://github.com/topics/javascript
+[heroku]: https://heroku.com
