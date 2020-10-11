@@ -15,17 +15,19 @@ IMPORTANT: Your memes should be named like this: 1.jpg, 2.jpg, 3.jpg and so on;
 
 - 5 In the heroku dashboard go to settings, choose reveal config vars, and set these theree config vars: BOT_TOKEN <code>your DiscordBot API KEY</code>, IMG_HOST <code>The image hosting address like http://example.com/folder/</code>, IMG_NUM <code>The number of memes you uploaded in your hosted folder</code>
 
-#### HEROKU DYNOS SHOULD BE SETTED AS **WORKER node bot.js**
+**HEROKU DYNOS SHOULD BE SETTED AS** ***WORKER node bot.js***
 
 ### IF YOU NEED HELP OR WANT TO CONTRIBUTE FEEL FREE TO CONTACT ME
 
---
+---
 
 Components I used in this project:
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsgit]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodesite]
 [<img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/452/heroku.png" />][heroku]
+
+
 
 ---
 
