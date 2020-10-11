@@ -20,7 +20,6 @@ IMPORTANT: Your memes should be named like this: 1.jpg, 2.jpg, 3.jpg and so on;
 ### IF YOU NEED HELP OR WANT TO CONTRIBUTE FEEL FREE TO CONTACT ME
 
 ---
-
 Components I used in this project:
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsgit]
