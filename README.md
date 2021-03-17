@@ -44,7 +44,7 @@ Components I used in this project:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsgit]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodesite]
 [<img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/452/heroku.png" />][heroku]
-[<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/452/docker.png />"][docker]
+[<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/452/docker.png" />][docker]
 
 <br>
 
