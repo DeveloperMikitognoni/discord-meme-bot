@@ -4,6 +4,8 @@ Discord meme bot is a simple discord bot written in Javascript and optimized to 
 
 ### HOW TO GET ON YOUR SERVER
 
+#### HEROKU METHOD
+
 1. Fork the repository to your github account;
 
 2. Register on heroku and connect to you github account;
@@ -15,12 +17,24 @@ Discord meme bot is a simple discord bot written in Javascript and optimized to 
     > IMPORTANT: Your memes should be named like this: 1.jpg, 2.jpg, 3.jpg and so on
 
 5. In the heroku dashboard go to settings, choose reveal config vars, and set these theree config vars: 
-    - BOT_TOKEN <code>your DiscordBot API KEY</code>;
+    - BOT_TOKEN <code>Your DiscordBot API KEY</code>;
     - IMG_HOST <code>The image hosting address like http://example.com/folder/</code>;
     - IMG_NUM <code>The number of memes you uploaded in your hosted folder</code>;
     - PREFIX <code>The prefix is the text at the start of every message sent to this bot. This helps bot at undertanding which message to process. An example of prefix is *b!*</code>;
 
 **HEROKU DYNOS SHOULD BE SETTED AS** ***WORKER node bot.js***
+
+#### DOCKER METHOD
+
+1. Be sure Docker is installed;
+
+2. Find a hosting location for your memes, it has to be something like http://example.com/folder/memename.jpg ;
+
+    > IMPORTANT: Your memes should be named like this: 1.jpg, 2.jpg, 3.jpg and so on
+
+2. Run the command <code>docker run --name DockermemeBOT -d \ <br>-e BOT_TOKEN="Your DiscordBot API KEY" \ <br>-e IMG_HOST="The image hosting address like http://example.com/folder/" \ <br>-e IMG_NUM="The number of memes you uploaded in your hosted folder" \ <br>-e PREFIX="The prefix is the text at the start of every message sent to this bot. This helps bot at undertanding which message to process. An example of prefix is *b!*" \ <br> ghcr.io/developermikitognoni/dsmemebot:2.0-light</code>;
+
+3. Enjoy your brand new discord meme bot
 
 ### IF YOU NEED HELP OR WANT TO CONTRIBUTE FEEL FREE TO CONTACT ME
 
@@ -30,6 +44,7 @@ Components I used in this project:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsgit]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodesite]
 [<img align="left" alt="Heroku" width="26px" src="https://img.icons8.com/color/452/heroku.png" />][heroku]
+[<img align="left" alt="Docker" width="26px" src="https://img.icons8.com/color/452/docker.png"][docker]
 
 <br>
 
@@ -58,3 +73,4 @@ Connect with me:
 [nodesite]: https://nodejs.org/
 [jsgit]: https://github.com/topics/javascript
 [heroku]: https://heroku.com
+[docker]: https://docker.com
