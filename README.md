@@ -32,7 +32,8 @@ Discord meme bot is a simple discord bot written in Javascript and optimized to 
 
     > IMPORTANT: Your memes should be named like this: 1.jpg, 2.jpg, 3.jpg and so on
 
-2. Run the command <code>docker run --name DockermemeBOT -d \</code> <br> <code>-e BOT_TOKEN="Your DiscordBot API KEY" \ </code> <br> <code>-e IMG_HOST="The image hosting address like http://example.com/folder/" \ </code> <br> <code>-e IMG_NUM="The number of memes you uploaded in your hosted folder" \ </code> <br> <code>-e PREFIX="The prefix is the text at the start of every message sent to this bot. This helps bot at undertanding which message to process. An example of prefix is *b!*" \ </code> <br> <code>ghcr.io/developermikitognoni/dsmemebot:2.0-light</code>;
+2. Run the command <code>docker run --name DockermemeBOT -d \
+-e BOT_TOKEN="Your DiscordBot API KEY" \ </code> <br> <code>-e IMG_HOST="The image hosting address like http://example.com/folder/" \ </code> <br> <code>-e IMG_NUM="The number of memes you uploaded in your hosted folder" \ </code> <br> <code>-e PREFIX="The prefix is the text at the start of every message sent to this bot. This helps bot at undertanding which message to process. An example of prefix is *b!*" \ </code> <br> <code>ghcr.io/developermikitognoni/dsmemebot:2.0-light</code>
 
 3. Enjoy your brand new discord meme bot
 
